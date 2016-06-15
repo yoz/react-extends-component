@@ -1,0 +1,7 @@
+{
+  "name": "react-extends-component",
+  "version": "0.0.1",
+  "description": "eslint rule to detect potential components that don't extend React.Component",
+  "author": "Yoyo Zhou",
+  "license": "MIT"
+}
